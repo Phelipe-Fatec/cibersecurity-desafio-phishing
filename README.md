@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./Print-Phishing "Optional title")
+![Alt text](./Print-Phishing.jpeg "Optional title")
