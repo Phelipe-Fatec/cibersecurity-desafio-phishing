@@ -22,7 +22,7 @@
   
 ![Alt text](./Clonagem-Phishing.png "Optional title")
 
-- Possível vítima insere seus dadaos de Login.
+- Possível vítima insere seus dados de Login.
   
 ![Alt text](./Form-Instagram.png "Optional title")
 
